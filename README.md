@@ -34,6 +34,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="829" height="712" alt="Screenshot 2025-11-06 at 4 58 33 PM" src="https://github.com/user-attachments/assets/ce212d43-d405-452c-aeee-1f6367aa2ea9" />
 <img width="435" height="76" alt="Screenshot 2025-11-06 at 4 58 40 PM" src="https://github.com/user-attachments/assets/9a3a9661-3816-419f-b25d-485f6c2c1a6e" />
 <img width="820" height="288" alt="Screenshot 2025-11-06 at 4 59 00 PM" src="https://github.com/user-attachments/assets/d78573c5-0a91-4f3c-8b5c-5682c9da36cc" />
+<img width="498" height="497" alt="Screenshot 2025-11-06 at 4 59 54 PM" src="https://github.com/user-attachments/assets/21fc1ffa-51c0-4520-a522-a6da1b4418bf" />
+<img width="883" height="284" alt="Screenshot 2025-11-06 at 5 01 53 PM" src="https://github.com/user-attachments/assets/ff87ecbd-2715-4362-930c-ad42b27369b9" />
+<img width="879" height="535" alt="Screenshot 2025-11-06 at 5 04 53 PM" src="https://github.com/user-attachments/assets/91173228-3e1f-42d1-8cba-b8655ec65540" />
+
+
   
 </p>
 <p>
