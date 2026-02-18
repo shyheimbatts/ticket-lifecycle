@@ -53,25 +53,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="642" height="245" alt="Screenshot 2026-02-18 at 2 27 45 AM" src="https://github.com/user-attachments/assets/1d6bd3fc-515d-47a4-88d2-f1f63722d30a" />
 <img width="646" height="245" alt="Screenshot 2026-02-18 at 2 30 23 AM" src="https://github.com/user-attachments/assets/6726a8a5-81fe-4304-9720-ac52fac89eb8" />
 <img width="643" height="247" alt="Screenshot 2026-02-18 at 2 32 20 AM" src="https://github.com/user-attachments/assets/e551ef4d-e951-4c3a-88a4-d7cf3c5ca6dc" />
+<img width="934" height="701" alt="Screenshot 2026-02-18 at 2 34 26 AM" src="https://github.com/user-attachments/assets/7668ea62-d2e9-480a-b5b6-c04eaba49521" />
+<img width="643" height="284" alt="Screenshot 2026-02-18 at 2 35 24 AM" src="https://github.com/user-attachments/assets/c8f99ceb-9d5d-4758-80c8-e00669092a8e" />
+<img width="645" height="271" alt="Screenshot 2026-02-18 at 2 36 27 AM" src="https://github.com/user-attachments/assets/d6cdee4f-893a-4d84-984b-7fb7e6cd2777" />
+<img width="953" height="388" alt="Screenshot 2026-02-18 at 2 36 58 AM" src="https://github.com/user-attachments/assets/cea40df6-98ac-4017-9e08-391626b10bf5" />
+<img width="400" height="328" alt="Screenshot 2026-02-18 at 2 37 58 AM" src="https://github.com/user-attachments/assets/98835a4e-8ab5-4f8c-a73e-b96cbac8adb4" />
   
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
