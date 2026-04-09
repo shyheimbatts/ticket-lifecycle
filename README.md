@@ -43,7 +43,7 @@ Two URL's are used to complete the tasks for osTicket, The first one is for End 
 
 <p>
 
-**Stage 1- Intake**
+**Stage 1 - Intake**
 	
 </p>
 
@@ -52,6 +52,14 @@ Two URL's are used to complete the tasks for osTicket, The first one is for End 
 <img width="821" height="465" alt="Screenshot 2025-11-06 at 4 55 10 PM" src="https://github.com/user-attachments/assets/f44f1f98-aa77-4cd4-819a-a69b9c04309b" />
 <img width="845" height="879" alt="Screenshot 2026-02-18 at 2 02 39 AM" src="https://github.com/user-attachments/assets/b0bf51d4-ca47-4a2f-82d6-2b45d79c3fdb" />
 <img width="820" height="288" alt="Screenshot 2025-11-06 at 4 59 00 PM" src="https://github.com/user-attachments/assets/d78573c5-0a91-4f3c-8b5c-5682c9da36cc" />
+
+<p>
+
+**Stage 2 - Assignment and Communication**
+
+</p>
+
+
 <img width="498" height="497" alt="Screenshot 2025-11-06 at 4 59 54 PM" src="https://github.com/user-attachments/assets/21fc1ffa-51c0-4520-a522-a6da1b4418bf" />
 <img width="952" height="374" alt="Screenshot 2026-02-18 at 2 11 13 AM" src="https://github.com/user-attachments/assets/29f1e2f1-2d23-4053-87c6-a0c1fe557fc7" />
 <img width="938" height="822" alt="Screenshot 2026-02-18 at 2 14 16 AM" src="https://github.com/user-attachments/assets/9140d966-77fa-4f05-a39e-57c5b8414f96" />
