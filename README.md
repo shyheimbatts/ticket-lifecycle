@@ -453,6 +453,11 @@ After Logging in as Help Desk(John), observe and click on the ticket Ken submitt
 </p>
 
 <img width="954" height="372" alt="Screenshot 2026-02-18 at 2 55 29 AM" src="https://github.com/user-attachments/assets/48b5a6b6-13b1-40a1-9f54-61c034c42833" />
+<p>
+
+John clicked into the ticket and inspected it to get a sense for what was going on. Once John realized he didn't have enough information, he called Ken to get the severity of the issue. He didn’t want to guess what the SLA was. Ken stated that 10 out of 20 people were unable to open Adobe Reader. When they double-click the icon, it just hangs; nothing happens.
+	
+</p>
 <img width="938" height="377" alt="Screenshot 2026-02-18 at 2 59 14 AM" src="https://github.com/user-attachments/assets/20f3248b-deeb-4dc0-a18a-53cc35175059" />
 <img width="640" height="248" alt="Screenshot 2026-02-18 at 2 59 37 AM" src="https://github.com/user-attachments/assets/20ea8df8-bdd8-4e79-b86c-1651c4551a3d" />
 <img width="641" height="247" alt="Screenshot 2026-02-18 at 3 00 53 AM" src="https://github.com/user-attachments/assets/5e5a6fd2-b501-49be-a9b8-bef0da27c125" />
