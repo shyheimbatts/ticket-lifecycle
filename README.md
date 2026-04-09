@@ -227,6 +227,12 @@ Change the priortity level from "Normal" to "Emergency" after calling end user(k
 Change the SLA Plan from "Default SLA" to "Sev-A" Which means this ticket is Business Critical and needs to be responded to within 1-hour.
 
 <p>
+
+**Click Update**
+
+</p>
+	
+<p>
 Sev-A = 1-Hour Response Time	
 </p>
 <p>
