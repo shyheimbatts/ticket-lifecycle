@@ -350,7 +350,23 @@ First, Jane reviewed the ticket history/internal notes to get an understanding o
 </p>
 	
 </p>
-<img width="941" height="615" alt="Screenshot 2026-02-18 at 2 42 52 AM" src="https://github.com/user-attachments/assets/a3e1ad9e-eb7f-41fe-b830-1c6a7daabff4" />
+<img width="940" height="486" alt="Screenshot 2026-04-09 at 2 06 45 PM" src="https://github.com/user-attachments/assets/2a1e134c-4bea-4318-9093-6441d17a9c43" />
+<p>
+
+Lastly, Jane restarted the server and after checking the online server it was back up and running. Confirmed with Karen.
+	
+</p>
+<img width="938" height="130" alt="Screenshot 2026-04-09 at 2 07 04 PM" src="https://github.com/user-attachments/assets/71c5d5a4-3cbb-4c82-b26a-d8d86051f663" />
+
+<p>
+Jane closed out the ticket- Root cause analysis completed and issue confirmed to be resolved.	
+</p>
+
+<p>
+
+**Click Close**
+	
+</p>
 <img width="642" height="225" alt="Screenshot 2026-02-18 at 2 50 59 AM" src="https://github.com/user-attachments/assets/c1e4eaaf-dda2-44d4-9012-c1172b992b72" />
 <img width="830" height="876" alt="Screenshot 2026-02-18 at 2 54 05 AM" src="https://github.com/user-attachments/assets/34c4150a-e408-4c71-923c-07dd267d0b8d" />
 <img width="837" height="377" alt="Screenshot 2026-02-18 at 2 54 17 AM" src="https://github.com/user-attachments/assets/0de914ad-899f-45e1-9304-0533e3c28a02" />
