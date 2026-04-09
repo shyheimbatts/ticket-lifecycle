@@ -133,7 +133,7 @@ Use → <body> <a href="https://localhost/osTicket/scp/login.php">Admin/Analyst 
 
 <p>
 
-**Click Admin Panel.**
+**Click Admin Panel↓**
 	
 </p>
 
@@ -141,8 +141,26 @@ Use → <body> <a href="https://localhost/osTicket/scp/login.php">Admin/Analyst 
 <img width="381" height="71" alt="Screenshot 2025-11-05 at 11 28 20 PM" src="https://github.com/user-attachments/assets/056b9792-3bf3-4123-a21a-27a65ebb6e8d" />
 </p>
 
+<p>
+
+**Click Agents↓**
+	
+</p>
+
 <img width="958" height="750" alt="Screenshot 2025-11-05 at 11 15 37 PM" src="https://github.com/user-attachments/assets/2e8dcbc5-0404-4897-992f-ca6b09f947e8" />
+
+<p>
+
+**Click on John Doe(Help Desk Tech/Agent)↓**
+	
+</p>
 <img width="662" height="170" alt="Screenshot 2026-02-18 at 2 18 50 AM" src="https://github.com/user-attachments/assets/08c3283c-95f6-4b03-90ec-806f2628406d" />
+
+<p>
+
+**Within John's profile select "Access" and update his role from "View Only" to "All Access" Then Save Changes.**
+	
+</p>
 <img width="654" height="247" alt="Screenshot 2026-02-18 at 2 19 47 AM" src="https://github.com/user-attachments/assets/5fc24cae-0018-476c-bbb4-a80f0b891a69" />
 <img width="956" height="461" alt="Screenshot 2026-02-18 at 2 21 11 AM" src="https://github.com/user-attachments/assets/f4988df1-3ad4-420e-b086-b50eeb9f0e0a" />
 <img width="943" height="142" alt="Screenshot 2026-02-18 at 2 21 36 AM" src="https://github.com/user-attachments/assets/8bfb6914-b511-4617-a023-ded7cacbe2dd" />
