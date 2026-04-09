@@ -107,7 +107,15 @@ Password: Password1
 
 </p>
 <img width="498" height="497" alt="Screenshot 2025-11-06 at 4 59 54 PM" src="https://github.com/user-attachments/assets/21fc1ffa-51c0-4520-a522-a6da1b4418bf" />
+
+<p>
+After Logging in as Help Desk(John), observe and click on the ticket Karen submitted.	
+</p>
 <img width="952" height="374" alt="Screenshot 2026-02-18 at 2 11 13 AM" src="https://github.com/user-attachments/assets/29f1e2f1-2d23-4053-87c6-a0c1fe557fc7" />
+
+<p>
+	
+</p>
 <img width="938" height="822" alt="Screenshot 2026-02-18 at 2 14 16 AM" src="https://github.com/user-attachments/assets/9140d966-77fa-4f05-a39e-57c5b8414f96" />
 <img width="935" height="155" alt="Screenshot 2026-02-18 at 2 15 12 AM" src="https://github.com/user-attachments/assets/70d6fcbb-d8da-41d2-8d81-bc01ed912493" />
 <img width="619" height="403" alt="Screenshot 2025-11-05 at 10 24 18 PM" src="https://github.com/user-attachments/assets/c85100ab-1b63-4094-8c2e-09c57d2ea206" />
