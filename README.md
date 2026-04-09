@@ -158,11 +158,23 @@ Use → <body> <a href="https://localhost/osTicket/scp/login.php">Admin/Analyst 
 
 <p>
 
-**Within John's profile select "Access" and update his role from "View Only" to "All Access" Then Save Changes.**
+**Within John's profile select "Access."↓**
 	
 </p>
 <img width="654" height="247" alt="Screenshot 2026-02-18 at 2 19 47 AM" src="https://github.com/user-attachments/assets/5fc24cae-0018-476c-bbb4-a80f0b891a69" />
+
+<p>
+
+**Update John's role from "View Only" to "All Access" Then Save Changes.↓**
+	
+</p>
 <img width="956" height="461" alt="Screenshot 2026-02-18 at 2 21 11 AM" src="https://github.com/user-attachments/assets/f4988df1-3ad4-420e-b086-b50eeb9f0e0a" />
+
+<p>
+
+**Logout of the SysAdmin Account.↓**
+	
+</p>
 <img width="943" height="142" alt="Screenshot 2026-02-18 at 2 21 36 AM" src="https://github.com/user-attachments/assets/8bfb6914-b511-4617-a023-ded7cacbe2dd" />
 <img width="498" height="497" alt="Screenshot 2025-11-06 at 4 59 54 PM" src="https://github.com/user-attachments/assets/226a90d3-3d86-4a5b-847d-c2834983b8e2" />
 <img width="951" height="300" alt="Screenshot 2026-02-18 at 2 23 18 AM" src="https://github.com/user-attachments/assets/e723cae4-1038-4cc7-9879-84097ba6b943" />
