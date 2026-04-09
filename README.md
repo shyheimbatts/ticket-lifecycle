@@ -123,7 +123,20 @@ After clicking into the ticket to observe it, It is clear that the Help Desk Tec
 	
 </p>
 <img width="935" height="155" alt="Screenshot 2026-02-18 at 2 15 12 AM" src="https://github.com/user-attachments/assets/70d6fcbb-d8da-41d2-8d81-bc01ed912493" />
+
+<p>
+Use → <body> <a href="https://localhost/osTicket/scp/login.php">Admin/Analyst Login Page:</a> 	to Log In as a SysAdmin.
+</p>
+
+
 <img width="619" height="403" alt="Screenshot 2025-11-05 at 10 24 18 PM" src="https://github.com/user-attachments/assets/c85100ab-1b63-4094-8c2e-09c57d2ea206" />
+
+<p>
+
+**Click Admin Panel.**
+	
+</p>
+
 <p>
 <img width="381" height="71" alt="Screenshot 2025-11-05 at 11 28 20 PM" src="https://github.com/user-attachments/assets/056b9792-3bf3-4123-a21a-27a65ebb6e8d" />
 </p>
