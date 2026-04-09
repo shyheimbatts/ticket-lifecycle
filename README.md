@@ -224,8 +224,17 @@ Change the priortity level from "Normal" to "Emergency" after calling end user(k
 <img width="642" height="245" alt="Screenshot 2026-02-18 at 2 27 45 AM" src="https://github.com/user-attachments/assets/1d6bd3fc-515d-47a4-88d2-f1f63722d30a" />
 
 <p>
+Change the SLA Plan from "Default SLA" to "Sev-A" Which means this ticket is Business Critical and needs to be responded to within 1-hour.
 
-	
+<p>
+Sev-A = 1-Hour Response Time	
+</p>
+<p>
+Sev-B = 4-Hour Reponse Time	
+</p>
+<p>
+Sev-C =	8-Hour Respone Time
+</p>
 </p>
 <img width="646" height="245" alt="Screenshot 2026-02-18 at 2 30 23 AM" src="https://github.com/user-attachments/assets/6726a8a5-81fe-4304-9720-ac52fac89eb8" />
 
