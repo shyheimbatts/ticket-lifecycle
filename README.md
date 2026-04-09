@@ -306,6 +306,30 @@ Once the Department was transfered from "Support" to "SysAdmin" John's access wa
 	
 </p>
 <img width="953" height="388" alt="Screenshot 2026-02-18 at 2 36 58 AM" src="https://github.com/user-attachments/assets/cea40df6-98ac-4017-9e08-391626b10bf5" />
+
+
+<p>
+
+Log In as the SysAdmin(Jane) → <body>
+	<a href="https://localhost/osTicket/scp/login.php">Admin/Analyst Login Page:</a> </body> </html><br />
+
+<p>
+Username: jane
+</p>	
+<p>
+Password: Password1	
+</p>
+
+<p>
+
+**Click Log In**
+	
+</p>
+
+	
+</p>
+
+
 <img width="400" height="328" alt="Screenshot 2026-02-18 at 2 37 58 AM" src="https://github.com/user-attachments/assets/98835a4e-8ab5-4f8c-a73e-b96cbac8adb4" />
 <img width="951" height="365" alt="Screenshot 2026-02-18 at 2 38 34 AM" src="https://github.com/user-attachments/assets/17bd702d-6d1d-4e8d-944b-4bdcc5f5ca17" />
 <img width="941" height="615" alt="Screenshot 2026-02-18 at 2 42 52 AM" src="https://github.com/user-attachments/assets/a3e1ad9e-eb7f-41fe-b830-1c6a7daabff4" />
