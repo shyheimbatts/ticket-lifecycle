@@ -278,13 +278,25 @@ You can see the updates that were made to Priority, SLA Plan and Help Topic with
 **Change the Department from Support to SysAdmins and Click Transfer↓** 
 
 <p>
-The Reason -  Support is for the helpdesk department and SysAdmin is for the individuals who are in charge of maintaining the systems like Business Critical Systems
+The Reason -  Support is for the helpdesk department and SysAdmin is for the individuals who are in charge of maintaining the systems like the Business Critical Systems
 </p>
 
 
 	
 </p>
 <img width="645" height="271" alt="Screenshot 2026-02-18 at 2 36 27 AM" src="https://github.com/user-attachments/assets/d6cdee4f-893a-4d84-984b-7fb7e6cd2777" />
+
+<p>
+
+Once the Department was transfered from "Support" to "SysAdmin" John's access was taken/denied because of how the permissions are setup.. Only System Administrators can access the ticket now.
+
+<p>
+
+**Log out as John↓**
+	
+</p>
+	
+</p>
 <img width="953" height="388" alt="Screenshot 2026-02-18 at 2 36 58 AM" src="https://github.com/user-attachments/assets/cea40df6-98ac-4017-9e08-391626b10bf5" />
 <img width="400" height="328" alt="Screenshot 2026-02-18 at 2 37 58 AM" src="https://github.com/user-attachments/assets/98835a4e-8ab5-4f8c-a73e-b96cbac8adb4" />
 <img width="951" height="365" alt="Screenshot 2026-02-18 at 2 38 34 AM" src="https://github.com/user-attachments/assets/17bd702d-6d1d-4e8d-944b-4bdcc5f5ca17" />
