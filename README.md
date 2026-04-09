@@ -468,6 +468,15 @@ John clicked into the ticket and inspected it to get a sense for what was going 
 </p>
 <img width="938" height="377" alt="Screenshot 2026-02-18 at 2 59 14 AM" src="https://github.com/user-attachments/assets/20f3248b-deeb-4dc0-a18a-53cc35175059" />
 <p>
+
+
+<p>
+
+**Stage 3 - Working the Issue**	
+
+</p>
+
+	
  The priority level was changed from "Normal" to "High" because they need to use Adobe Reader to complete the audit.
 
 <p>
@@ -502,15 +511,27 @@ After speaking with Josh in the desktop department, John now has more clarity on
 <p>
 
 **Post Reply**
+	
+</p>
+	
+</p>
+<img width="940" height="352" alt="Screenshot 2026-04-09 at 4 07 17 PM" src="https://github.com/user-attachments/assets/aca53585-256d-4ed7-9342-0faf297fbc7b" />
 
-John relayed this information back to Ken via the telephone. Ken confirmed that the manual install worked and that everyone was back up and running again. John then posted this information within the internal notes.
-	
-</p>
-	
-</p>
-<img width="938" height="475" alt="Screenshot 2026-02-18 at 3 08 10 AM" src="https://github.com/user-attachments/assets/e495f270-2436-491e-85e9-95d8191a9b3f" />
 
 <p>
+
+**Stage 4 - Resolution**
+
+	
+</p>
+
+
+John relayed this information back to Ken via the telephone. Ken confirmed that the manual install worked and that everyone was back up and running again. John then posted this information within the internal notes.
+
+
+<img width="934" height="124" alt="Screenshot 2026-04-09 at 4 07 36 PM" src="https://github.com/user-attachments/assets/6a59b3b6-69d0-4643-a1aa-a72191d80ac6" />
+
+	
 John closed out the ticket- Root cause analysis completed and issue confirmed to be resolved.
 
 
