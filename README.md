@@ -331,7 +331,25 @@ Password: Password1
 
 
 <img width="400" height="328" alt="Screenshot 2026-02-18 at 2 37 58 AM" src="https://github.com/user-attachments/assets/98835a4e-8ab5-4f8c-a73e-b96cbac8adb4" />
+
+
+<p>
+
+Jane observes and clicks on the ticket assigned to her for the first time.↓
+	
+</p>
 <img width="951" height="365" alt="Screenshot 2026-02-18 at 2 38 34 AM" src="https://github.com/user-attachments/assets/17bd702d-6d1d-4e8d-944b-4bdcc5f5ca17" />
+
+<p>
+
+First, Jane reviewed the ticket history/internal notes to get an understanding of what happened before this ticket was assigned to her. Next, Jane explained in the internal notes "We accidentally restarted the online banking system backend server during business hours due to a configuration issue but will check the seetings and attempt to restart." 
+<p>
+
+**Post Reply**
+	
+</p>
+	
+</p>
 <img width="941" height="615" alt="Screenshot 2026-02-18 at 2 42 52 AM" src="https://github.com/user-attachments/assets/a3e1ad9e-eb7f-41fe-b830-1c6a7daabff4" />
 <img width="642" height="225" alt="Screenshot 2026-02-18 at 2 50 59 AM" src="https://github.com/user-attachments/assets/c1e4eaaf-dda2-44d4-9012-c1172b992b72" />
 <img width="830" height="876" alt="Screenshot 2026-02-18 at 2 54 05 AM" src="https://github.com/user-attachments/assets/34c4150a-e408-4c71-923c-07dd267d0b8d" />
