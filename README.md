@@ -433,7 +433,8 @@ The support ticket request was successfully created and sent over to the Support
 </p>
 <img width="837" height="377" alt="Screenshot 2026-02-18 at 2 54 17 AM" src="https://github.com/user-attachments/assets/0de914ad-899f-45e1-9304-0533e3c28a02" />
 <p>
-Stage 2 - Assignment and Communication
+
+**Stage 2 - Assignment and Communication**
 
 Begin the Assignment & Communication Stage by Logging in as the Helpdesk Technician(John) → Admin/Analyst Login Page:
 
