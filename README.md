@@ -33,11 +33,29 @@ Two URL's are used to complete the tasks for osTicket, The first one is for End 
 - Windows 11Pro</b> (24H2)
 
 <h2>Ticket Lifecycle Stages</h2>
+<p>
+	
+**- Stage 1. Intake -** This is where End Users create and submit tickets that captures the user's issue or request with intial details.
 
-- Stage 1 - Intake
-- Stage 2 - Assignment and Communication
-- Stage 3 - Working the Issue
-- Stage 4 - Resolution
+</p>
+
+<p>
+	
+**- Stage 2. Assignment and Communication -** This is when the ticket is assigned to the appropriate agent/team, and communication starts to clarify and update the issue.
+
+</p>
+
+<p>
+	
+**-Stage 3. Working the Issue -** This is when the assigned agent acitively investigates, troubleshoots, and works toward resolving the problem.
+
+</p>
+
+<p>
+	
+**-Stage 4. Resolution -** This is when the issue is resolved, the solution is documented, and the ticket is closed after confirming completion.
+
+</p>
 
 <h2>Lifecycle Stages</h2>
 
