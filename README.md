@@ -34,10 +34,10 @@ Two URL's are used to complete the tasks for osTicket, The first one is for End 
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- Stage 1 - Intake
+- Stage 2 - Assignment and Communication
+- Stage 3 - Working the Issue
+- Stage 4 - Resolution
 
 <h2>Lifecycle Stages</h2>
 
