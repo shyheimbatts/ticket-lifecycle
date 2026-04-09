@@ -205,6 +205,12 @@ Password: Password1
 	
 </p>
 <img width="951" height="300" alt="Screenshot 2026-02-18 at 2 23 18 AM" src="https://github.com/user-attachments/assets/e723cae4-1038-4cc7-9879-84097ba6b943" />
+
+<p>
+
+After clicking into the ticket to observe it, The Help Desk Technician(John) is now able to make changes to the ticket after his role was switched from "View/Read Only" to "All Access." Now John is able to update things like Priority, SLA Plan, Help Topic Etc.
+	
+</p>
 <img width="938" height="351" alt="Screenshot 2026-02-18 at 2 24 22 AM" src="https://github.com/user-attachments/assets/bb38fff2-ff62-4e4a-a962-1ed409a613e7" />
 <img width="642" height="245" alt="Screenshot 2026-02-18 at 2 27 45 AM" src="https://github.com/user-attachments/assets/1d6bd3fc-515d-47a4-88d2-f1f63722d30a" />
 <img width="646" height="245" alt="Screenshot 2026-02-18 at 2 30 23 AM" src="https://github.com/user-attachments/assets/6726a8a5-81fe-4304-9720-ac52fac89eb8" />
