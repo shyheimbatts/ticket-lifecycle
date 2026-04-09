@@ -212,8 +212,27 @@ After clicking into the ticket to observe it, The Help Desk Technician(John) is 
 	
 </p>
 <img width="938" height="351" alt="Screenshot 2026-02-18 at 2 24 22 AM" src="https://github.com/user-attachments/assets/bb38fff2-ff62-4e4a-a962-1ed409a613e7" />
+
+<p>
+Change the priortity level from "Normal" to "Emergency" after calling end user(karen) to confirm that all teller systems are down.
+<p>
+
+**Click Update**
+	
+</p>	
+</p>
 <img width="642" height="245" alt="Screenshot 2026-02-18 at 2 27 45 AM" src="https://github.com/user-attachments/assets/1d6bd3fc-515d-47a4-88d2-f1f63722d30a" />
+
+<p>
+
+	
+</p>
 <img width="646" height="245" alt="Screenshot 2026-02-18 at 2 30 23 AM" src="https://github.com/user-attachments/assets/6726a8a5-81fe-4304-9720-ac52fac89eb8" />
+
+<p>
+
+	
+</p>
 <img width="643" height="247" alt="Screenshot 2026-02-18 at 2 32 20 AM" src="https://github.com/user-attachments/assets/e551ef4d-e951-4c3a-88a4-d7cf3c5ca6dc" />
 <img width="934" height="701" alt="Screenshot 2026-02-18 at 2 34 26 AM" src="https://github.com/user-attachments/assets/7668ea62-d2e9-480a-b5b6-c04eaba49521" />
 <img width="643" height="284" alt="Screenshot 2026-02-18 at 2 35 24 AM" src="https://github.com/user-attachments/assets/c8f99ceb-9d5d-4758-80c8-e00669092a8e" />
