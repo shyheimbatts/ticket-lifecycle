@@ -493,6 +493,13 @@ Sev-C = 8-Hour Respone Time
 	
 </p>
 <img width="641" height="247" alt="Screenshot 2026-02-18 at 3 00 53 AM" src="https://github.com/user-attachments/assets/5e5a6fd2-b501-49be-a9b8-bef0da27c125" />
+
+<p>
+
+After speaking with Josh in the desktop department, John now has more clarity on what occurred with the Adobe Reader. Two solutions were presented. The first solution was to wait an hour for the new package to be deployed. Second, end users could manually install the new package from the software catalog.
+
+	
+</p>
 <img width="938" height="475" alt="Screenshot 2026-02-18 at 3 08 10 AM" src="https://github.com/user-attachments/assets/e495f270-2436-491e-85e9-95d8191a9b3f" />
 
 <p>
