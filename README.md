@@ -255,12 +255,15 @@ Change the Help Topic from "General Inquiry/Other" to "Business Critical Outage"
 	
 </p>
 
+
+<img width="643" height="247" alt="Screenshot 2026-02-18 at 2 32 20 AM" src="https://github.com/user-attachments/assets/e551ef4d-e951-4c3a-88a4-d7cf3c5ca6dc" />
+
 <p>
 
 You can see the updates that were made to Priority, SLA Plan and Help Topic within the ticket history below as well as John escalating to the SysAdmin department after triaging the ticket.
 	
 </p>
-<img width="643" height="247" alt="Screenshot 2026-02-18 at 2 32 20 AM" src="https://github.com/user-attachments/assets/e551ef4d-e951-4c3a-88a4-d7cf3c5ca6dc" />
+
 <img width="934" height="701" alt="Screenshot 2026-02-18 at 2 34 26 AM" src="https://github.com/user-attachments/assets/7668ea62-d2e9-480a-b5b6-c04eaba49521" />
 <img width="643" height="284" alt="Screenshot 2026-02-18 at 2 35 24 AM" src="https://github.com/user-attachments/assets/c8f99ceb-9d5d-4758-80c8-e00669092a8e" />
 <img width="645" height="271" alt="Screenshot 2026-02-18 at 2 36 27 AM" src="https://github.com/user-attachments/assets/d6cdee4f-893a-4d84-984b-7fb7e6cd2777" />
