@@ -179,7 +179,7 @@ Use → <body> <a href="https://localhost/osTicket/scp/login.php">Admin/Analyst 
 
 <p>
 
-Log in as the Helpdesk Technician(John) again → <body>
+Log back in as the Helpdesk Technician(John) → <body>
 	<a href="https://localhost/osTicket/scp/login.php">Admin/Analyst Login Page:</a> </body> </html><br />
 
 <p>
