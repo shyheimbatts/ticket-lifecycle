@@ -117,6 +117,11 @@ After Logging in as Help Desk(John), observe and click on the ticket Karen submi
 After clicking into the ticket to observe it, It is clear that the Help Desk Technician(John) is unable to make changes to the ticket due to him having "Read Only" access. The only thing that John can do is create internal notes within the ticket for other agents, staff and backend people to observe/respond to. End users can't see the internal notes. Within the internal note section write: "John was here" as the title and "Testing as a user with "Read Only" access. Then, Click Post Note.
 </p>
 <img width="938" height="822" alt="Screenshot 2026-02-18 at 2 14 16 AM" src="https://github.com/user-attachments/assets/9140d966-77fa-4f05-a39e-57c5b8414f96" />
+<p>
+
+**Log Out of John's Account**
+	
+</p>
 <img width="935" height="155" alt="Screenshot 2026-02-18 at 2 15 12 AM" src="https://github.com/user-attachments/assets/70d6fcbb-d8da-41d2-8d81-bc01ed912493" />
 <img width="619" height="403" alt="Screenshot 2025-11-05 at 10 24 18 PM" src="https://github.com/user-attachments/assets/c85100ab-1b63-4094-8c2e-09c57d2ea206" />
 <p>
