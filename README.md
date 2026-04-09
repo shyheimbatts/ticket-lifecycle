@@ -494,7 +494,23 @@ Sev-C = 8-Hour Respone Time
 </p>
 <img width="641" height="247" alt="Screenshot 2026-02-18 at 3 00 53 AM" src="https://github.com/user-attachments/assets/5e5a6fd2-b501-49be-a9b8-bef0da27c125" />
 <img width="938" height="475" alt="Screenshot 2026-02-18 at 3 08 10 AM" src="https://github.com/user-attachments/assets/e495f270-2436-491e-85e9-95d8191a9b3f" />
+
+<p>
+John closed out the ticket- Root cause analysis completed and issue confirmed to be resolved.
+
+
+**Click Close↓**	
+
+</p>
+
+
 <img width="643" height="221" alt="Screenshot 2026-02-18 at 3 09 23 AM" src="https://github.com/user-attachments/assets/032db68b-c47b-43a0-ae47-cd61ac51d78c" />
+
+<p>
+
+**Log Out as John↓**
+	
+</p>
 <img width="952" height="192" alt="Screenshot 2026-02-18 at 3 09 38 AM" src="https://github.com/user-attachments/assets/0f6677fa-c3d1-4163-9db8-eb26c1a3dab7" />
 
 
