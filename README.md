@@ -4,6 +4,17 @@
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+<p>
+Two URL's are used to complete the tasks for osTicket, The first one is for End Users Submitting Tickets → </head>
+<body>
+	<a href="https://localhost/osTicket">End Users osTicket URL:</a>
+</body>
+</html><br /> and The second one is used to Login as an Admin/Helpdesk Technician → <body>
+	<a href="https://localhost/osTicket/scp/login.php">Admin/Analyst Login Page:</a>
+</body>
+</html><br />
+</p>
+
 
 
 <h2>Video Demonstration</h2>
