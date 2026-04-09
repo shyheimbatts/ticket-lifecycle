@@ -89,9 +89,12 @@ The support ticket request was successfully created and sent over to the Support
 
 **Stage 2 - Assignment and Communication**
 
+Begin the Assignment & Communication Stage by Logging in as the Helpdesk Technician(John) → <body>
+	<a href="https://localhost/osTicket/scp/login.php">Admin/Analyst Login Page:</a>
+</body>
+</html><br />
+
 </p>
-
-
 <img width="498" height="497" alt="Screenshot 2025-11-06 at 4 59 54 PM" src="https://github.com/user-attachments/assets/21fc1ffa-51c0-4520-a522-a6da1b4418bf" />
 <img width="952" height="374" alt="Screenshot 2026-02-18 at 2 11 13 AM" src="https://github.com/user-attachments/assets/29f1e2f1-2d23-4053-87c6-a0c1fe557fc7" />
 <img width="938" height="822" alt="Screenshot 2026-02-18 at 2 14 16 AM" src="https://github.com/user-attachments/assets/9140d966-77fa-4f05-a39e-57c5b8414f96" />
