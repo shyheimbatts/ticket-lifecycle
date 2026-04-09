@@ -275,7 +275,13 @@ You can see the updates that were made to Priority, SLA Plan and Help Topic with
 
 <p>
 
-**Change the Department from Support to SysAdmins and Click Transfer↓**
+**Change the Department from Support to SysAdmins and Click Transfer↓** 
+
+<p>
+The Reason -  Support is for the helpdesk department and SysAdmin is for the individuals who are in charge of maintaining the systems like Business Critical Systems
+</p>
+
+
 	
 </p>
 <img width="645" height="271" alt="Screenshot 2026-02-18 at 2 36 27 AM" src="https://github.com/user-attachments/assets/d6cdee4f-893a-4d84-984b-7fb7e6cd2777" />
