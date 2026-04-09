@@ -245,7 +245,13 @@ Sev-C =	8-Hour Respone Time
 <img width="646" height="245" alt="Screenshot 2026-02-18 at 2 30 23 AM" src="https://github.com/user-attachments/assets/6726a8a5-81fe-4304-9720-ac52fac89eb8" />
 
 <p>
+Change the Help Topic from "General Inquiry/Other" to "Business Critical Outage" because the entire banking system is offline.
 
+<p>
+
+**Click Update**
+	
+</p>
 	
 </p>
 <img width="643" height="247" alt="Screenshot 2026-02-18 at 2 32 20 AM" src="https://github.com/user-attachments/assets/e551ef4d-e951-4c3a-88a4-d7cf3c5ca6dc" />
