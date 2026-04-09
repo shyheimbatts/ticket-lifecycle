@@ -44,12 +44,36 @@ Two URL's are used to complete the tasks for osTicket, The first one is for End 
 <p>
 
 **Stage 1 - Intake**
+
+Begin the Intake Stage by using → </head> <body>
+	<a href="https://localhost/osTicket">End Users osTicket URL:</a> to submit a ticket as Karen. Click "Open a New Ticket" to Begin.
 	
 </p>
 
 
 <p>
 <img width="821" height="465" alt="Screenshot 2025-11-06 at 4 55 10 PM" src="https://github.com/user-attachments/assets/f44f1f98-aa77-4cd4-819a-a69b9c04309b" />
+
+<p>
+Next, After clicking "Open a New Ticket" fill in the Contact Information Form↓
+</p>
+
+<p>
+Email Address: karen@lognpacifc
+</p>
+
+<p>
+Full Name: karen
+</p>
+
+<p>
+Help Topic: General Inquiry / Other	
+</p>
+
+<p>
+Issue Summary: "The entire mobile/online banking system seems to be down."	
+</p>
+	
 <img width="845" height="879" alt="Screenshot 2026-02-18 at 2 02 39 AM" src="https://github.com/user-attachments/assets/b0bf51d4-ca47-4a2f-82d6-2b45d79c3fdb" />
 <img width="820" height="288" alt="Screenshot 2025-11-06 at 4 59 00 PM" src="https://github.com/user-attachments/assets/d78573c5-0a91-4f3c-8b5c-5682c9da36cc" />
 
