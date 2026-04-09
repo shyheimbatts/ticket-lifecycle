@@ -73,6 +73,10 @@ Help Topic: General Inquiry / Other
 <p>
 Issue Summary: "The entire mobile/online banking system seems to be down."	
 </p>
+
+<p>
+Under the Issue Summary, Give further detail in the allocated space. Then, submit the ticket by clicking "Create Ticket."	
+</p>
 	
 <img width="845" height="879" alt="Screenshot 2026-02-18 at 2 02 39 AM" src="https://github.com/user-attachments/assets/b0bf51d4-ca47-4a2f-82d6-2b45d79c3fdb" />
 <img width="820" height="288" alt="Screenshot 2025-11-06 at 4 59 00 PM" src="https://github.com/user-attachments/assets/d78573c5-0a91-4f3c-8b5c-5682c9da36cc" />
