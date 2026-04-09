@@ -77,7 +77,7 @@ Next, After clicking "Open a New Ticket" fill in the Contact Information Form↓
 </p>
 
 <p>
-Email Address: karen@lognpacifc
+Email Address: karen@lognpacific.com
 </p>
 
 <p>
@@ -417,13 +417,13 @@ Begin the Intake Stage by using → </head> <body>
 
 Next, After clicking "Open a New Ticket" fill in the Contact Information Form↓
 
-Email Address: karen@lognpacifc
+Email Address: ken@lognpacific.com
 
-Full Name: karen
+Full Name: ken
 
-Help Topic: General Inquiry / Other
+Help Topic: Report a Problem / Personal Computer Issues
 
-Issue Summary: "The entire mobile/online banking system seems to be down."
+Issue Summary: "Adobe reader not working."
 
 Under the Issue Summary, Give further detail in the allocated space. Then, submit the ticket by clicking "Create Ticket."
 
