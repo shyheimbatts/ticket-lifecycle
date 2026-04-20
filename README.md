@@ -17,9 +17,6 @@ Two URL's are used to complete the tasks for osTicket, The first one is for End 
 
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
